@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-25T18:45:45.719Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="dfE8K3Xv0dxemYGNJB6w" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T10:37:42.872Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="7HXbor_cV9aCs1ROWcLO" version="13.5.3" type="github">
   <diagram id="znGpLiTexzstm3V1v_vn" name="Page-1">
-    <mxGraphModel dx="1368" dy="1926" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="1961" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,16 +22,73 @@
         <mxCell id="QJ3ncT-s3SCwV3FqHQEU-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Node&lt;br&gt;Package&lt;br&gt;Manager&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="64" y="-558" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fKun_XoIVvIEZ5vsG71--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QJ3ncT-s3SCwV3FqHQEU-2">
+        <mxCell id="fKun_XoIVvIEZ5vsG71--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="QJ3ncT-s3SCwV3FqHQEU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="202" y="-752" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKun_XoIVvIEZ5vsG71--1" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Install&lt;br&gt;command&lt;br&gt;which installs&lt;br&gt;the package&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="fKun_XoIVvIEZ5vsG71--1" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Install&lt;br&gt;command&lt;br&gt;which installs&lt;br&gt;the package&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="-848" width="144" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fKun_XoIVvIEZ5vsG71--3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;i&gt;Steps to install react app:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. &lt;font color=&quot;#ff0000&quot;&gt;npm install -g create-react-app&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;The above command installs the &quot;create-react-app&quot; command on the machine&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. &lt;font color=&quot;#ff3333&quot;&gt;create-react-app name_of_the_project&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;The above command creates the project&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="fKun_XoIVvIEZ5vsG71--3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;i&gt;Steps to install react app:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. &lt;font color=&quot;#ff0000&quot;&gt;npm install -g create-react-app&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;The above command installs the &quot;create-react-app&quot; command on the machine&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. &lt;font color=&quot;#ff3333&quot;&gt;create-react-app name_of_the_project&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;The above command creates the project&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="32" y="-1112" width="720" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Project Directory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="64" y="-448" width="128" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-26" target="Wpz79wwKVvm09JGtlq4l-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-26" value="&lt;font style=&quot;font-size: 20px&quot;&gt;src&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-448" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-27" target="Wpz79wwKVvm09JGtlq4l-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;public&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-384" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-28" target="Wpz79wwKVvm09JGtlq4l-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-28" value="&lt;font style=&quot;font-size: 16px&quot;&gt;node_modules&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-320" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-29" target="Wpz79wwKVvm09JGtlq4l-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-29" value="&lt;font style=&quot;font-size: 16px&quot;&gt;package.json&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-256" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-30" target="Wpz79wwKVvm09JGtlq4l-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;package-lock.json&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-192" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wpz79wwKVvm09JGtlq4l-31" target="Wpz79wwKVvm09JGtlq4l-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;README.md&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="-128" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Folder where we put all the source code we write&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-426" width="283" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Folder that stores static files, like images&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-362" width="288" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Folder that contains all of our project dependencies&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-298" width="288" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Records our project dependencies and configures our project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="-234" width="288" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Records the &lt;i&gt;exact &lt;/i&gt;version of packages that we install&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-170" width="288" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wpz79wwKVvm09JGtlq4l-39" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instructions on how to use this project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-106" width="288" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
